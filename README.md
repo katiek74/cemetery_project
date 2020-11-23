@@ -3,6 +3,7 @@ In this dataset we got to explore burial records from the historic Nashville Cit
 ![Image of project](https://github.com/katiek74/cemetery_project/blob/main/assets/cemetery_viz.jpg)
 
 
+The assignment:
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
-The Nashville City Cemetery Association has asked you to explore the dataset to create charts that can be used in marketing materials. The following exercises are a _starting point_ for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
+The Nashville City Cemetery Association has asked you to explore the dataset to create charts that can be used in marketing materials. The exercises are a _starting point_ for exploring the data and creating visualizations. Once you have completed the exercises, create additional visualizations to accompany storytelling points.
